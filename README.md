@@ -1,6 +1,6 @@
 ### A quick guide to the repositories of Terry Soltz
 
-I love solving puzzles and finding creative and efficient solutions to complicated problems. I've recently turned this affinity to the field of software development. Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/terrence-soltz/). I've been studying coding at The Tech Academy, and that is the primary source of my programming knowledge and the inspiration behind many of my coding samples.
+I love solving puzzles and finding creative and efficient solutions to complicated problems. I've recently turned this affinity to the field of software development. Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/terrence-soltz/). I've been studying coding at The Tech Academy, and that is the source of a great deal of my programming knowledge and the inspiration behind many of my coding samples.
 
 This repository contains my solutions to several programming challenges as well as a few personal projects.
 
