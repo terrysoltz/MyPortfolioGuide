@@ -6,7 +6,7 @@ This repository contains my solutions to several programming challenges as well 
 
 #### C\# 
 * [Pizza Order Management Application](../../../MegaChallengePapaBobs) using ASP.NET web forms and Entity Framework database first approach.
-* [Library Database Interface](../../../CodeFirstLibrary) built using .NET MVC code first approach.
+* [Library Database Interface](../../../MyLibrary) built using .NET MVC code first approach and Identity Framework to allow for user accounts and roles.
 * [Code Samples](../../../LiveProject) from my contributions to an enterprise scale project that used RAZOR, JavaScript, and C# in a .NET MVC application.
 
 #### SQL Database
